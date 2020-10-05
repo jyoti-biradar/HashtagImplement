@@ -1,0 +1,2 @@
+rootProject.name='HashtagImplementation'
+include ':app'
